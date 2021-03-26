@@ -39,9 +39,9 @@ if (empty($_POST["message"])) {
 }
 
 
-$EmailTo = "example@domainname.com";
+$EmailTo = "texicol@libero.it";
 
-$Subject = "New Message Received";
+$Subject = "[texicol.it] Nuovo messaggio da contact form";
 
 // prepare email body text
 $Body = "";
